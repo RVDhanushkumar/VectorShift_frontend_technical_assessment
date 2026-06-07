@@ -4,6 +4,14 @@ An interactive visual pipeline builder that lets users compose data-processing w
 
 ---
 
+## Project Explaination Demo: 
+
+
+
+https://github.com/user-attachments/assets/185d5a3e-30ce-41aa-8314-48b61ff8cfd8
+
+
+
 ## Project Structure
 
 ```
